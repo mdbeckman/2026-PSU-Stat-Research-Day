@@ -4,15 +4,15 @@ output:
     css: stylesheet.css
 ---
 
-# 2024 PSU Statistics Dept Research Day
+# 2026 PSU Statistics Dept Research Day
 
-*February 2, 2024*
+*February 6, 2026*
 
-## 2024 Lightning Talk
+## 2026 Lightning Talk
 
-#### Progress toward NLP-assisted formative assessment feedback
+#### AI Support for Teaching & Learning at Scale
 
-[One-page Lightning Talk Slide (PDF)](docs/2024-Stat-Research-Day.pdf)
+[One-page Lightning Talk Slide (PDF)](docs/2026-Beckman-Research.pdf)
 
 *Abstract.* The project described here seeks to articulate the benefit of free-response tasks and timely formative assessment feedback and progress toward developing human-in-the-loop natural language processing (NLP) assisted feedback at scale. Research suggests "write-to-learn" tasks improve learning outcomes, yet constructed-response methods of formative assessment become unwieldy when class sizes grow large. If we are to pursue Statistics and Data Science Education across disciplines, we will surely encounter both opportunity and necessity to develop scalable solutions for pedagogical best practices. In a pilot study, several short-answer tasks completed by nearly 2000 introductory tertiary statistics students were evaluated by human raters and an NLP algorithm. The talk will conclude with recent developments building upon this pilot, as well as implications for teaching and future research.
 
@@ -72,7 +72,7 @@ Beckman, M. D., & delMas, R. C. (2018). Statistics students' identification of i
 
 Matthew Beckman  
 Assoc Research Professor | Dept of Statistics  
-Assoc Director for Research | CAUSE (<https://causeweb.org/>) 
+Director | CAUSE (<https://causeweb.org/>) 
 
 office: 421C Thomas Building  
 email: mdb268 [at] psu [dot] edu  
