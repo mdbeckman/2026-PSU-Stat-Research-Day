@@ -14,7 +14,7 @@ output:
 
 *Abstract.* The proliferation of artificial intelligence (AI) tools and large language models (LLMs) has sparked dramatic changes to the landscape of post-secondary education resulting in **new opportunities—and obligations—to re-evaluate norms for teaching and learning**. This presentation includes a brief overview with perspective about rethinking assessment practices—i.e., how student learning is evaluated—during a period of such rapidly evolving technology. The session then transitions to sharing greater detail about ongoing research sponsored by the National Science Foundation, Penn State’s Center for Socially Responsible Artificial Intelligence, and a strategic partnership between Penn State and the University of Auckland in New Zealand, which seeks to **develop LLM and AI-based tools intended to amplify instructor efforts to provide timely, personalized feedback** to open-ended questions during class, especially for use in large classes (**hundreds of students**) at scales for which the logistics of doing so would be either untenable or impossible without a teacher-AI partnership. To this end, we also discuss how our team has approached evaluating performance of the tools they develop in order to **build trust and confidence that human-AI partnerships make a responsible contribution** to teaching and learning.
 
- - [One-page Lightning Talk Slide (PDF)](docs/2026-Beckman-Research.pdf)
+ - [One-page Lightning Talk Poster (PDF)](docs/2026-Beckman-Research.pdf)
  - [Ashtekar Public Lecture: February 28, 2026 @ 11am](https://science.psu.edu/frontiers/matthew-beckman-and-jennelle-malcos)
 
 #### Associated Papers:
@@ -42,8 +42,9 @@ Lloyd, S., Beckman, M., Pearl, D., Passonneau, R., Li, Z., & Wang, Z. (2022). Fo
 
 #### Data Science Education
 
-  - exploring intersection of stat education & computing education
-  - studying **DS/CS topics introduced as learning objectives in statistics** curricula
+  - Exploring intersection of stat education & computing education
+  - Mixed-methods analysis of introductory data science course content
+  - Studying **DS/CS topics introduced as learning objectives in statistics** curricula
   - Data literacy, data acumen, EDA for DS
 
 **Alyssa Hu**, Hatfield, N. J., Beckman, M. D. (2025). Exploring individuals' computational thinking with data. *ZDM Mathematics Education, 57*. https://doi.org/10.1007/s11858-025-01669-0
@@ -69,6 +70,12 @@ Beckman, M. D., & delMas, R. C. (2018). Statistics students' identification of i
   - Attend Conferences: JSM; [eCOTS](https://www.causeweb.org/cause/ecots) 
   - [IASE catalog of PhD dissertations in statistics education (link)](https://iase-web.org/Publications.php?p=Dissertations)
 
+## Acknowledgements 
+
+  - NSF IUSE Award #2236150
+  - NSF MCA Award #2423026
+  - Penn State CSRAI: Seed Grant #025243
+  - Penn State Global: Strategic Partnership with University of Auckland (NZ) 
 
 
 ## Contact
