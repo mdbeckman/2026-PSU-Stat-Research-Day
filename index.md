@@ -37,7 +37,7 @@ Li, Z., **Susan Lloyd**, Beckman, M. D., & Passonneau, R. J. (2023). Answer-stat
 
 **Sayali Phadke**, Beckman, M.D., Lock Morgan, K. (2024). Measuring contextualized statistical literacy: Evidence from an isomorphic assessment.
 
-Lloyd, S., Beckman, M., Pearl, D., Passonneau, R., Li, Z., & Wang, Z. (2022). Foundations for AI-Assisted Formative Assessment Feedback for Short-Answer Tasks in Large-Enrollment Classes. In *Proceedings of the eleventh international conference on teaching statistics*. Rosario, Argentina.
+**Susan Lloyd**, Beckman, M., Pearl, D., Passonneau, R., Li, Z., & Wang, Z. (2022). Foundations for AI-Assisted Formative Assessment Feedback for Short-Answer Tasks in Large-Enrollment Classes. In *Proceedings of the eleventh international conference on teaching statistics*. Rosario, Argentina.
 
 
 #### Data Science Education
